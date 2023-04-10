@@ -30,20 +30,20 @@ about-author:  虔森汽配赣县店负责人小钟
 
 # Contact links
 email: v20130403@163.com # Add your Email address
-phone: 18170770366 # Add your Phone number
+phone:  # Add your Phone number
 website: https://floin.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
+# linkedin: amaynez # Add your Linkedin handle
 github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+# twitter: '@MvmThe' # Add your Twitter handle
+# bandcamp: armandomaynez # Add your Bandcamp username
+# stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+# analytics: G-R8SZS2YBZK
+# fbadmin: ar.maybach
 
 # Paginate
 paginate: 8
