@@ -1,12 +1,12 @@
 # Site settings
 title: 森森汽配赣县店
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+description: '专注易损件20年' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://floin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+logo: "/assets/img/branding/ssqp-logo-full.svg"
+logo-icon: "/assets/img/branding/ssqp-symbol.svg"
+logo-icon-SEO: "/assets/img/branding/ssqp-symbol-black.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,18 +20,18 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/assets/img/branding/ssqp-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
+author: 小钟 # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author:  虔森汽配赣县店负责人小钟
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
+email: v20130403@163.com # Add your Email address
+phone: 18170770366 # Add your Phone number
+website: https://floin.github.io # Add your website
 linkedin: amaynez # Add your Linkedin handle
 github: amaynez # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
