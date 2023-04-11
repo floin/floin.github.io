@@ -1,0 +1,21 @@
+---
+layout: post
+read_time: true
+show_date: true
+title:  养护品 
+date:   2021-02-10 13:32:20 -0600
+img: posts/20210210/haifeilenmei.jpg
+tags: [雪种, 防冻液, 化清剂]
+author: 小钟
+description: 冠军冷媒来自美国专业的汽车养护品牌，秉承环保和优质的原则，选用99.9%纯正高纯度、不破坏臭氧层的HFC-134a作为制冷剂，专为使用134a制冷剂的压缩机而制造，制冷效率高，可减少空调压缩机故障和管路腐蚀，降低燃油消耗，保护空调制冷系统。
+---
+
+## 雪种
+* 金冷
+![金冷](./assets/img/posts/20210210/jinlen3.jpg)
+* 辉门雪种
+![辉门雪种](./assets/img/posts/20210210/huimxuez3.jpg)
+* 爱信雪种
+![爱信雪种](./assets/img/posts/20210210/aixinxz3.jpg)
+* 冰酷
+![冰酷](./assets/img/posts/20210210/bklm3.jpg)
