@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "润滑油"
 date: 2021-01-25
-img: posts/20210125/fflqq.jpg
+img: posts/20210125/GJJY001.jpg
 tags: [润滑油, 机油, 变速箱油, 齿轮油]
 category: 汽配
 author: 小钟
