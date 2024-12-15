@@ -1,6 +1,6 @@
 # Site settings
-title: 森森汽配赣县店
-description: '专注易损件20年' # this means to ignore newlines until "baseurl:"
+title: 红薯多少钱一斤
+description: '你要买红薯吗？' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://floin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: 钟 # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author:  虔森汽配赣县店钟
+about-author:  大自然的搬运工
 
 # Contact links
 email: v20130403@163.com # Add your Email address
